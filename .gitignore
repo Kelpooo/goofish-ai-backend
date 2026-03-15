@@ -1,0 +1,9 @@
+# 忽略API密钥文件（绝对不能上传）
+.env
+# 忽略Python缓存文件
+__pycache__/
+*.pyc
+# 忽略本地数据文件夹（代码会自动生成）
+data/
+# 忽略调试文件
+debug.html

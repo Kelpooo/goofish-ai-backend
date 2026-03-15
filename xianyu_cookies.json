@@ -1,0 +1,128 @@
+[
+  {
+    "domain": ".goofish.com",
+    "expiry": 1773337747,
+    "httpOnly": false,
+    "name": "_m_h5_tk",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "e4c956168ed1f39875f2160fef14295f_1773339907751"
+  },
+  {
+    "domain": ".goofish.com",
+    "httpOnly": true,
+    "name": "cookie2",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "16f66894043d1f2d11fe3ce42e75f100"
+  },
+  {
+    "domain": ".goofish.com",
+    "expiry": 1773591546,
+    "httpOnly": false,
+    "name": "xlly_s",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": ".goofish.com",
+    "expiry": 1773337747,
+    "httpOnly": false,
+    "name": "mtop_partitioned_detect",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": ".goofish.com",
+    "expiry": 1781137148,
+    "httpOnly": false,
+    "name": "t",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "761490695d4d19cdfb509f029d73b9a6"
+  },
+  {
+    "domain": ".goofish.com",
+    "httpOnly": true,
+    "name": "_samesite_flag_",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "true"
+  },
+  {
+    "domain": ".goofish.com",
+    "expiry": 1773337747,
+    "httpOnly": false,
+    "name": "_m_h5_tk_enc",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "bc8152e90a79ea0c4ceced3e84b0a752"
+  },
+  {
+    "domain": ".goofish.com",
+    "expiry": 1804897237,
+    "httpOnly": true,
+    "name": "sgcookie",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "E100YCfrH63%2FI9Y82RO51fuEXO2RXrsvjIXNXS%2FKUqWPH%2Bt8gUOao%2BVVHQvzSdcjjXXD7E164IEmJUbEPE39T6SNsOr5Dlr0b%2BSIIlb4H30no%2Fc%3D"
+  },
+  {
+    "domain": ".goofish.com",
+    "httpOnly": false,
+    "name": "csg",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "6d51f126"
+  },
+  {
+    "domain": ".goofish.com",
+    "expiry": 1773620437,
+    "httpOnly": false,
+    "name": "unb",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "2215027416227"
+  },
+  {
+    "domain": ".goofish.com",
+    "expiry": 1804897237,
+    "httpOnly": false,
+    "name": "tracknick",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "xy657837439052"
+  },
+  {
+    "domain": ".goofish.com",
+    "expiry": 1788884439,
+    "httpOnly": false,
+    "name": "tfstk",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "gKHsO-OBLNbsj2t9kN-FPQvzNpeXzHJPhiZxqmBNDReOkZn88VzaQnvbkV4EQPoaBGcnz0BZQC2VhR20HU8yULoZj-2vjBGVZPmKxoKUXPKXNOe0HU8eULoij-0_22WnBDKQ0o5AWqBY9yU3c1QxkPFdJuZuHr3xkHiL-oeYkqF9ADU3D-Uxkbs5RoR_DctbuGbH4Sz-Xy6Ahgq_6zpuRtBxdl_zycNlHtHQf5HCQO-6v5lxq7DZDK63Q0GLpuoMC9w-Xuga84pRdJnEvqPotEXzt2MbGAFRD337CqN-BWsA3J2b8JZKen5u8vaZkANp4TN4pYP8BXRH7Sy_VqHi5i6xyDorIWDXPwUm_u2L4cv1d8nTDg7dUzaYjssQZtZQzHtCis0ocBkxFN0sn5E3XL-BAw106kqQJHtCiwNTxlnwAH1lF"
+  },
+  {
+    "domain": ".goofish.com",
+    "httpOnly": false,
+    "name": "_tb_token_",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "f1e5e8d749d75"
+  }
+]

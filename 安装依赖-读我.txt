@@ -1,0 +1,6 @@
+# 先卸载原有依赖（可选）
+pip uninstall -y -r requirements.txt
+# 安装补充后的依赖
+pip install -r requirements.txt
+# 运行你的后端代码（app.py），看是否有ImportError
+python app.py
